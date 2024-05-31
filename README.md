@@ -7,6 +7,9 @@ The Student Grade Calculator is a tool designed to help students calculate their
 Features
 
 -Weighted Grade Calculation: Calculate final grades based on weighted components.
+
 -Customizable Components: Add, remove, or modify grading components and their weights.
+
 -Real-time Calculation: Get instant feedback on final grades as you input data.
+
 -User-friendly Interface: Easy-to-navigate interface designed for students.
